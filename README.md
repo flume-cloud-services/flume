@@ -15,6 +15,4 @@ Flume's services together
 
 That's done you can enjoy Flume Cloud Services.
 
-Use the official SDK (not available yet)
-
-Read the services documentation
+For further information : [Read the docs](https://flume-cloud-services.github.io/docs)
